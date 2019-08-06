@@ -8,5 +8,6 @@
 </head>
 <body>
 
+<h2>Oooops! Error page</h2>
 </body>
 </html>

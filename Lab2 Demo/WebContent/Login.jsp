@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h4>Login Page</h4>
-	<form method="post" action="LoginCheck">
+	<form method="post" action="LoginServlet">
 		<table>
 			<tr>
 				<td>User Name</td>

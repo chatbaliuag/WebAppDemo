@@ -22,7 +22,7 @@ public class LoginDao {
 			Statement myStmt = myConn.createStatement();
 			//TO READ EVERYTHING FROM THE DB
 //			ResultSet myRs = myStmt.executeQuery("select * from admin");
-			
+//			
 //			System.out.println("User \t\tPassword\n=========================");
 //			while(myRs.next()) {
 //				System.out.print(myRs.getString("firstname") + " " + myRs.getString("lastname")+ 
